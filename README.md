@@ -1,3 +1,12 @@
+Note: 
+
+A React.js CRUD application integrated with an ASP.NET Core Web API for backend operations and database
+
+- This is Frontend App
+
+- Backend WebApi Application link: (https://github.com/Divyadevaki/mywebapicore.git)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
